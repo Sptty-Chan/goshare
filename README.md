@@ -3,9 +3,13 @@ Bot Share Facebook Menggunakan Bahasa Pemrograman Go-Lang.
 
 # cara install
 $ pkg upgrade && pkg update
+
 $ pkg install git
+
 $ pkg install golang
+
 $ cd ~
+
 $ git clone https://github.com/sptty-chan/goshare
 
 # cara menggunakan
