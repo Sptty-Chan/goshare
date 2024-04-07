@@ -116,8 +116,8 @@ func (sharebot *ShareBot) shareSubmit(b lib.Rule) {
       }
     }
     dot := "[/]"
-    for second := 0; second < 30; second++ {
-      strSecond := strconv.Itoa(30 - second)
+    for second := 0; second < 15; second++ {
+      strSecond := strconv.Itoa(15 - second)
       if len(strSecond) == 1 {
         strSecond = "0" + strSecond
       }
